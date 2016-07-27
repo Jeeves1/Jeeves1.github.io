@@ -13,9 +13,12 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
-$backround-image: url("http://www.hdwallpapers.in/walls/red_buds_flowers-wide.jpg");
-$backround-size: cover;
-$text-color:       #111;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+  background-size: cover;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	padding: 250px 0;
+	margin: 30px;
+  color: #ffffff;
 
 $brand-color:      #2a7ae2;
 
