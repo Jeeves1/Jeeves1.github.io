@@ -13,12 +13,12 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
-  background-size: cover;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	padding: 250px 0;
-	margin: 30px;
-  color: #ffffff;
+$background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+$background-size: cover;
+$font-family: 'Trebuchet MS', Helvetica, sans-serif;
+$padding: 250px 0;
+$margin: 30px;
+$color: #ffffff;
 
 $brand-color:      #2a7ae2;
 
